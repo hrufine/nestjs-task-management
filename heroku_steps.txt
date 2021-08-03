@@ -14,3 +14,8 @@ heroku config:set STAGE=prod
 heroku config:set NODE_ENV=production
 
 heroku config:set -Add all db parameters like this for the application
+
+
+git push heroku <the branch you want to push>:master
+
+https://task-management-jishnu.herokuapp.com/
